@@ -1,0 +1,12 @@
+body{
+background-color: gray; 
+  }
+
+#logopokedex{
+  width: 250px;
+  height: 80px;
+}
+
+nav{
+  background-color: red;
+}
